@@ -12,7 +12,7 @@ class AI
      * @param string $img
      * @return array
      */
-    public function get(string $img)
+    public function get(string $img):array
     {
         $data   = file_get_contents($img);
         $img = base64_encode($data);
