@@ -26,7 +26,6 @@ class AI
         ];
         $params['sign'] = $this->getReqSign((array) $params, (string) $this->appkey);
         $url = 'https://api.ai.qq.com/fcgi-bin/face/face_detectface';
-//        sleep(1);//暂停1秒等待视频播放
         $response = $this->doHttpPost((string) $url, (array) $params);
         $response = json_decode($response,true);
         if($response["ret"] === 0){
