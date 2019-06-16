@@ -22,7 +22,7 @@ while (true){
         $img = $DyImg->compressedImage($dir,$dir);
         $res = $AI->get($img);
         if($res["code"] == 1){
-            if($res["data"]["gender"] <= $gender && $res["data"]["age"] >= 18 && $res["data"]["beauty"] >= 80){
+            if($res["data"]["gender"] <= $2gender && $res["data"]["age"] >= $age && $res["data"]["beauty"] >= $beauty){
                 $Adb->Follow();
                 $Adb->Fabulous();
                 echo "遇到好看的小姐姐,点赞加关注✧(≖ ◡ ≖✿)嘿嘿".PHP_EOL;
