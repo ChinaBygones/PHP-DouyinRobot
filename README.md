@@ -11,13 +11,16 @@
 <img src="https://img.shields.io/badge/platform-linux%20%7C%20win%20%7C%20osx-lightgrey.svg">
 </p>
 
+### 安装 (本项目不依赖Composer)
 
-使用此项目
+---
 
-确保你已经安装了 `ADB` 工具
+### 环境要求
+* PHP >= 7.0
+* PHP  gd扩展
+* ADB 工具
 
-
-使用方法
+安装&&使用此项目
 ```
 git clone https://github.com/ChinaBygones/PhpDouyinRobot.git
 
@@ -27,3 +30,6 @@ php index.php
 
 ```
 
+喜欢给个Start
+
+尽管提要求,让我更新就完事了
