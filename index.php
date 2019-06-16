@@ -1,10 +1,4 @@
 <?php
-
-
-
-
-
-/*开发者交流QQ群 179981870*/
 include __DIR__ . "/AI.php";
 include __DIR__ . "/Adb.php";
 include __DIR__ . "/DyImg.php";
