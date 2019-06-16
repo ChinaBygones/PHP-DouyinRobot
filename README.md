@@ -31,6 +31,8 @@ cd PhpDouyinRobot
 php index.php
 
 ```
+视频演示:` http://www.isshw.cn/dy.php`
+
 ps:使用此项目之前,确保已经连接好手机并且打开抖音了
 
 喜欢给个Start
