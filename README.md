@@ -31,7 +31,7 @@ cd PhpDouyinRobot
 php index.php
 
 ```
-视频演示: [http://www.isshw.cn/dy.php]("http://www.isshw.cn/dy.php","抖音机器人,自动找好看的小姐姐😍")
+视频演示: ["http://www.isshw.cn/dy.php"]("http://www.isshw.cn/dy.php","抖音机器人,自动找好看的小姐姐😍")
 
 ps:使用此项目之前,确保已经连接好手机并且打开抖音了
 
