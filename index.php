@@ -12,7 +12,6 @@ fwrite(STDOUT,'是否开始你的表演 [y/n] ');
 if(trim(fgets(STDIN)) != "y") {
     echo "感谢您的使用,再见".PHP_EOL;exit();
 }
-echo "开始了...".PHP_EOL;
 $AI = new AI();
 $Adb = new Adb((array) $config);
 $DyImg = new DyImg();
