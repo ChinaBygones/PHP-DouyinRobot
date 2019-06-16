@@ -8,7 +8,9 @@
 <p align="center">自动在抖音找好看的小姐姐,并关注点赞,哈哈哈,好邪恶</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/platform-linux%20%7C%20win%20%7C%20osx-lightgrey.svg">
+<img src="https://img.shields.io/badge/contact-Bygones-brightgreen.svg">
+<img src="https://img.shields.io/badge/QQ%E7%BE%A4-179981870-blue.svg">
+<img src="https://img.shields.io/badge/Version-0.0.1-orange.svg">
 </p>
 
 ### 安装 (本项目不依赖Composer)
@@ -29,6 +31,7 @@ cd PhpDouyinRobot
 php index.php
 
 ```
+ps:使用此项目之前,确保已经连接好手机并且打开抖音了
 
 喜欢给个Start
 
