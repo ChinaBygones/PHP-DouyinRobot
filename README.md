@@ -9,7 +9,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/contact-Bygones-brightgreen.svg">
-<img src="https://img.shields.io/badge/QQ%E7%BE%A4-179981870-blue.svg">
 <img src="https://img.shields.io/badge/Version-0.0.1-orange.svg">
 </p>
 
