@@ -57,6 +57,7 @@ class Adb
         exec("adb shell input tap ".$x." ".$y." ");
         return true;
     }
+    
     /**
      * Describe:截图
      * @Author: Bygones

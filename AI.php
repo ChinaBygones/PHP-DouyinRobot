@@ -1,8 +1,8 @@
 <?php
 class AI
 {
-    protected $appkey="R2tqFEW4gJWY4SSp";
-    protected $appid = "2117414489";
+    protected $appkey="";
+    protected $appid = "";
 
     /**
      * Describe:获取图片信息
